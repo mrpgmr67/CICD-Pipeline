@@ -1,0 +1,23 @@
+{
+  "name": "cicd-on-github",
+  "version": "1.0.0",
+  "description": "testing CICD on Github functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpgmr67/CICD-On-GIthub.git"
+  },
+  "author": "Michael Pomatto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpgmr67/CICD-On-GIthub/issues"
+  },
+  "homepage": "https://github.com/mrpgmr67/CICD-On-GIthub#readme",
+  "keywords": [],
+  "dependencies": {
+    "node": "^16.4.0"
+  }
+}
